@@ -13,3 +13,12 @@
 ### Added
 
 - Initial commit
+
+## [0.1.2] - 2026-06-04 
+
+### Changed 
+
+- Remove unwanted XXXXX from file data/1899225.txt.
+
+
+
